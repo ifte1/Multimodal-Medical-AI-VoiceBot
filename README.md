@@ -17,7 +17,7 @@
 5. [⚙️ Quickstart](#quickstart)  
 6. [📂 Repo Structure](#repo-structure)   
 7. [🗺️ Roadmap](#roadmap)  
-8. [⚖️ Disclaimer](#disclaimer)  
+. [⚖️ Disclaimer](#disclaimer)  
 
 ---
 
@@ -33,7 +33,7 @@
 - 🖥️ **Runs** in-browser via a Gradio interface  
 
 <p align="center">
-  <img src="./assets/screenshot_ui.png" alt="App Screenshot" width="60%"/>
+  <img src="./assets/Screenshot_ui.png" alt="App Screenshot" width="60%"/>
 </p>
 
 ---
